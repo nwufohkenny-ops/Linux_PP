@@ -1,0 +1,9 @@
+[PASTE THE OUTPUT OF YOUR FINAL VERIFICATION COMMANDS HERE]
+
+Include:
+1. Output of: tree project
+2. Output of: ls -la project/docs project/scripts project/bin project/backup
+
+Instructions:
+Run both commands from your home directory as student01, copy their real output,
+and paste it here in place of this placeholder. Do not fabricate output.

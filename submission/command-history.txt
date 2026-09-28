@@ -1,0 +1,5 @@
+[PASTE YOUR ACTUAL COMMAND HISTORY HERE]
+
+Instructions:
+1. Run: history > commands_used.txt   (from your home directory, as student01)
+2. Open commands_used.txt and paste its contents into this file, replacing this placeholder.
